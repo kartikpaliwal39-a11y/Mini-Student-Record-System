@@ -169,15 +169,18 @@ The following screenshots showcase the main functionalities of the **Mini Studen
 1. **Add Student**  
    ![Add Student](screenshots/add-data.png)
 
-2. **Display All Records**  
+2. **Invalid Choice**  
+   ![Invalid Choice](screenshots/invalid-choice.png)
+
+3. **Display All Records**  
    ![Display Records](screenshots/display.png)
 
-3. **Search Student**  
+4. **Search Student**  
    ![Search Student](screenshots/search-data.png)
 
-4. **Delete Student**  
+5. **Delete Student**  
    ![Delete Student](screenshots/delete-data.png)
 
-5. **Exit Program**  
+6. **Exit Program**  
    ![Exit Program](screenshots/exit.png)
 
