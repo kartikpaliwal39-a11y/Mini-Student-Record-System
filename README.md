@@ -37,6 +37,7 @@ mini-student-record-system/
          ├── delete-data.png
          ├── display.png
          ├── exit.png
+         ├── invalid-choice.png
          └── search-data.png
 ```
 
