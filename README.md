@@ -173,7 +173,7 @@ The following screenshots showcase the main functionalities of the **Mini Studen
    ![Invalid Choice](screenshots/invalid-choice.png)
 
 3. **Display All Records**  
-   ![Display Records](screenshots/display.png)
+   ![Display Records](screenshots/display-data.png)
 
 4. **Search Student**  
    ![Search Student](screenshots/search-data.png)
@@ -182,5 +182,5 @@ The following screenshots showcase the main functionalities of the **Mini Studen
    ![Delete Student](screenshots/delete-data.png)
 
 6. **Exit Program**  
-   ![Exit Program](screenshots/exit.png)
+   ![Exit Program](screenshots/exit-file.png)
 
